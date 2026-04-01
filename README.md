@@ -92,3 +92,24 @@ By the end of this project, you will have:
 
 ▶️ How to Run the Project
 Clone the repository
+https://github.com/Chief1234/Mentat-Health-and-Tech-survey-eda-clustering-project/tree/main
+
+⭐ Use Cases
+
+This project is ideal for:
+
+Survey analytics
+Customer/user segmentation
+HR analytics
+Marketing research
+Behavioral profiling
+Unsupervised ML projects
+Academic machine learning assignments
+🤝 Contributing
+
+Contributions, issues, and suggestions are welcome.
+Feel free to fork the repo and submit a pull request!
+
+📄 License
+
+This project is licensed under the MIT License.
